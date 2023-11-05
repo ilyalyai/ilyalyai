@@ -1,5 +1,4 @@
-![GitHub stats](https://raw.githubusercontent.com/ilyalyai/ilyalyai/output/github-stats.svg#gh-light-mode-only)
-![GitHub stats](https://raw.githubusercontent.com/ilyalyai/ilyalyai/output/github-stats-dark.svg#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyalyai&show_icons=true&theme=github_dark)
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
